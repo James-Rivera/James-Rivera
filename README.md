@@ -1,6 +1,6 @@
 # hi, i'm james carlo rivera 👋
 
-3rd-year IT student exploring web development, automation, and creative coding projects.  
+3rd-year IT student exploring web development, and creative coding projects.  
 
 ---
 
@@ -14,16 +14,16 @@
 
 ## GitHub Stats
 
-![James Carlo Rivera's GitHub stats]([[https://github-readme-stats.vercel.app/api?username=James-Rivera&show_icons=true&theme=tokyonight](https://github-stats-ten-lake.vercel.app/)](https://github-stats-wjba.vercel.app/))
+![James Carlo Rivera's GitHub stats](https://github-stats-wjba.vercel.app/api?username=James-Rivera&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=James-Rivera&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-wjba.vercel.app/api/top-langs/?username=James-Rivera&layout=compact&theme=tokyonight)
 
 ---
 
 ## Currently Learning
 
-- Modern JavaScript frameworks (Next.js, SvelteKit)  
-- Full-stack project workflows & automation  
+- JavaScript
+- Full-stack Web Development  
 
 ---
 
