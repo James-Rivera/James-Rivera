@@ -14,7 +14,7 @@
 
 ## GitHub Stats
 
-![James Carlo Rivera's GitHub stats](https://github-readme-stats.vercel.app/api?username=James-Rivera&show_icons=true&theme=tokyonight)
+![James Carlo Rivera's GitHub stats]([https://github-readme-stats.vercel.app/api?username=James-Rivera&show_icons=true&theme=tokyonight](https://github-stats-ten-lake.vercel.app/))
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=James-Rivera&layout=compact&theme=tokyonight)
 
