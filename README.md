@@ -29,5 +29,5 @@
 
 ## Connect
 
-- [Portfolio](#)  
-- [LinkedIn](#)
+- [Portfolio](https://james-rivera.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE-URL)
