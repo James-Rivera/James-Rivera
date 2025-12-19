@@ -30,4 +30,4 @@
 ## Connect
 
 - [Portfolio](https://james-rivera.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE-URL)
+- [LinkedIn](www.linkedin.com/in/james-carlo-rivera-220126268)
