@@ -9,10 +9,7 @@
 - **Languages:** HTML, CSS, JavaScript, PHP, Python  
 - **Web:** Responsive Design, UX/UI, Frontend & Backend Development
 - **Backend**: APIs, authentication, server-side logic
-- **DevOps / Homelab**:
--     Docker & containers
--     Linux server management
--     Self-hosted apps (Nextcloud, Pi-hole, etc.)
+- **DevOps / Homelab**:Docker & containers, Linux server management, Self-hosted apps (Nextcloud, Pi-hole, etc.)
 - **Other:** Automation, Embedded Systems (Arduino, ESP32, Raspberry Pi), Git  
 
 ---
