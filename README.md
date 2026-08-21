@@ -41,5 +41,5 @@
 
 ## Connect
 
-- [Portfolio](https://jamescarlo.me/)
+- [Portfolio](https://jamesrivera.dev/)
 - [LinkedIn](https://www.linkedin.com/in/james-carlo-rivera-220126268/)
